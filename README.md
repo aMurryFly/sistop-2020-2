@@ -5,15 +5,9 @@
 <!-- ABOUT THE PROJECT -->
 ## Acerca del proyecto
 
-El presente repositorio incluye todo el material de la materia de **Sistemas Operativos**
+El presente repositorio incluye todo el material de la materia de **Sistemas Operativos** impartida por el profesor Gunnal Eyal wolf Iszaevich
 
 Para cualquier duda o aclaración puedes levantar un issue en el presente repositorio o mandarme un correo: alfonsomvmx@outlook.com
-
-
-### Profesores y materias 
-
-- [Sistemas Operativos](https://github.com/aMurryFly/sistop-2020-2/blob/master/aboutCourse.md) | Gunnal Eyal wolf Iszaevich
-
 
 **NOTA:** **Para saber más acerca del curso [click here](https://github.com/aMurryFly/sistop-2020-2/blob/master/aboutCourse.md)* 
 
