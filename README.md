@@ -16,7 +16,6 @@ Para cualquier duda o aclaración puedes levantar un issue en el presente reposi
 
 En esta sección incluyo una lista de todos los programas necesario y recurrentes para compilar o ejecutar proyectos
 
--  Editor PDF
 -  GCC para los programas en C
 -  [Python](https://www.python.org)
 
